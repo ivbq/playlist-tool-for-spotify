@@ -1,5 +1,5 @@
 var clientId = "570aa2a055984ac2a9eaef39442423c8";
-var redirectUri = "http://localhost:5500"
+var redirectUri = "https://ivbq.github.io/playlist-tool-for-spotify/"
 var token, error;
 
 if (token == undefined && (location.hash != "" || location.search != "")) {
